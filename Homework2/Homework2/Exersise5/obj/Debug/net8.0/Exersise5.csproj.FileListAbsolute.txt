@@ -1,0 +1,14 @@
+C:\Users\HP\OneDrive\Работен плот\Homework2\Homework2\Exersise5\bin\Debug\net8.0\Exersise5.exe
+C:\Users\HP\OneDrive\Работен плот\Homework2\Homework2\Exersise5\bin\Debug\net8.0\Exersise5.deps.json
+C:\Users\HP\OneDrive\Работен плот\Homework2\Homework2\Exersise5\bin\Debug\net8.0\Exersise5.runtimeconfig.json
+C:\Users\HP\OneDrive\Работен плот\Homework2\Homework2\Exersise5\bin\Debug\net8.0\Exersise5.dll
+C:\Users\HP\OneDrive\Работен плот\Homework2\Homework2\Exersise5\bin\Debug\net8.0\Exersise5.pdb
+C:\Users\HP\OneDrive\Работен плот\Homework2\Homework2\Exersise5\obj\Debug\net8.0\Exersise5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Работен плот\Homework2\Homework2\Exersise5\obj\Debug\net8.0\Exersise5.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Работен плот\Homework2\Homework2\Exersise5\obj\Debug\net8.0\Exersise5.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Работен плот\Homework2\Homework2\Exersise5\obj\Debug\net8.0\Exersise5.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Работен плот\Homework2\Homework2\Exersise5\obj\Debug\net8.0\Exersise5.dll
+C:\Users\HP\OneDrive\Работен плот\Homework2\Homework2\Exersise5\obj\Debug\net8.0\refint\Exersise5.dll
+C:\Users\HP\OneDrive\Работен плот\Homework2\Homework2\Exersise5\obj\Debug\net8.0\Exersise5.pdb
+C:\Users\HP\OneDrive\Работен плот\Homework2\Homework2\Exersise5\obj\Debug\net8.0\Exersise5.genruntimeconfig.cache
+C:\Users\HP\OneDrive\Работен плот\Homework2\Homework2\Exersise5\obj\Debug\net8.0\ref\Exersise5.dll

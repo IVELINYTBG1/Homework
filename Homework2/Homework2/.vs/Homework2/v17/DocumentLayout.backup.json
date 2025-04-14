@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\Homework2\\Homework2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4B06E309-6D35-4905-9500-8728058EC972}|Exersise3\\Exersise3.csproj|c:\\users\\hp\\onedrive\\\u0440\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\homework2\\homework2\\exersise3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B06E309-6D35-4905-9500-8728058EC972}|Exersise3\\Exersise3.csproj|solutionrelative:exersise3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D1E7BBC-FA4A-4929-B4C3-CB23C77A6833}|Exersise2\\Exersise2.csproj|c:\\users\\hp\\onedrive\\\u0440\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\homework2\\homework2\\exersise2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D1E7BBC-FA4A-4929-B4C3-CB23C77A6833}|Exersise2\\Exersise2.csproj|solutionrelative:exersise2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F5BCB8E-FEA5-4D9D-936B-C853C7D90DA3}|Homework2\\Homework2.csproj|c:\\users\\hp\\onedrive\\\u0440\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\homework2\\homework2\\homework2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F5BCB8E-FEA5-4D9D-936B-C853C7D90DA3}|Homework2\\Homework2.csproj|solutionrelative:homework2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4510F78F-319E-4B51-A70E-4B34C8A60272}|Exersise5\\Exersise5.csproj|c:\\users\\hp\\onedrive\\\u0440\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\homework2\\homework2\\exersise5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4510F78F-319E-4B51-A70E-4B34C8A60272}|Exersise5\\Exersise5.csproj|solutionrelative:exersise5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B830696-71FF-44AB-BFF1-2897071DC52B}|Exersise4\\Exersise4.csproj|c:\\users\\hp\\onedrive\\\u0440\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\homework2\\homework2\\exersise4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B830696-71FF-44AB-BFF1-2897071DC52B}|Exersise4\\Exersise4.csproj|solutionrelative:exersise4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\Homework2\\Homework2\\Exersise5\\Program.cs",
+              "RelativeDocumentMoniker": "Exersise5\\Program.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\Homework2\\Homework2\\Exersise5\\Program.cs",
+              "RelativeToolTip": "Exersise5\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T14:53:05.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\Homework2\\Homework2\\Exersise4\\Program.cs",
+              "RelativeDocumentMoniker": "Exersise4\\Program.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\Homework2\\Homework2\\Exersise4\\Program.cs",
+              "RelativeToolTip": "Exersise4\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T14:50:19.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\Homework2\\Homework2\\Exersise3\\Program.cs",
+              "RelativeDocumentMoniker": "Exersise3\\Program.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\Homework2\\Homework2\\Exersise3\\Program.cs",
+              "RelativeToolTip": "Exersise3\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAwwA4AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T14:29:50.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\Homework2\\Homework2\\Exersise2\\Program.cs",
+              "RelativeDocumentMoniker": "Exersise2\\Program.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\Homework2\\Homework2\\Exersise2\\Program.cs",
+              "RelativeToolTip": "Exersise2\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAqwA4AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T14:11:36.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\Homework2\\Homework2\\Homework2\\Program.cs",
+              "RelativeDocumentMoniker": "Homework2\\Program.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\Homework2\\Homework2\\Homework2\\Program.cs",
+              "RelativeToolTip": "Homework2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T13:29:51.923Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
