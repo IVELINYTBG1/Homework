@@ -1,0 +1,14 @@
+C:\Users\iveli\OneDrive\Работен плот\HomeworkRepo\BubbleSortHomework\BubbleSortHomework\bin\Debug\net8.0\BubbleSortHomework.exe
+C:\Users\iveli\OneDrive\Работен плот\HomeworkRepo\BubbleSortHomework\BubbleSortHomework\bin\Debug\net8.0\BubbleSortHomework.deps.json
+C:\Users\iveli\OneDrive\Работен плот\HomeworkRepo\BubbleSortHomework\BubbleSortHomework\bin\Debug\net8.0\BubbleSortHomework.runtimeconfig.json
+C:\Users\iveli\OneDrive\Работен плот\HomeworkRepo\BubbleSortHomework\BubbleSortHomework\bin\Debug\net8.0\BubbleSortHomework.dll
+C:\Users\iveli\OneDrive\Работен плот\HomeworkRepo\BubbleSortHomework\BubbleSortHomework\bin\Debug\net8.0\BubbleSortHomework.pdb
+C:\Users\iveli\OneDrive\Работен плот\HomeworkRepo\BubbleSortHomework\BubbleSortHomework\obj\Debug\net8.0\BubbleSortHomework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iveli\OneDrive\Работен плот\HomeworkRepo\BubbleSortHomework\BubbleSortHomework\obj\Debug\net8.0\BubbleSortHomework.AssemblyInfoInputs.cache
+C:\Users\iveli\OneDrive\Работен плот\HomeworkRepo\BubbleSortHomework\BubbleSortHomework\obj\Debug\net8.0\BubbleSortHomework.AssemblyInfo.cs
+C:\Users\iveli\OneDrive\Работен плот\HomeworkRepo\BubbleSortHomework\BubbleSortHomework\obj\Debug\net8.0\BubbleSortHomework.csproj.CoreCompileInputs.cache
+C:\Users\iveli\OneDrive\Работен плот\HomeworkRepo\BubbleSortHomework\BubbleSortHomework\obj\Debug\net8.0\BubbleSortHomework.dll
+C:\Users\iveli\OneDrive\Работен плот\HomeworkRepo\BubbleSortHomework\BubbleSortHomework\obj\Debug\net8.0\refint\BubbleSortHomework.dll
+C:\Users\iveli\OneDrive\Работен плот\HomeworkRepo\BubbleSortHomework\BubbleSortHomework\obj\Debug\net8.0\BubbleSortHomework.pdb
+C:\Users\iveli\OneDrive\Работен плот\HomeworkRepo\BubbleSortHomework\BubbleSortHomework\obj\Debug\net8.0\BubbleSortHomework.genruntimeconfig.cache
+C:\Users\iveli\OneDrive\Работен плот\HomeworkRepo\BubbleSortHomework\BubbleSortHomework\obj\Debug\net8.0\ref\BubbleSortHomework.dll
