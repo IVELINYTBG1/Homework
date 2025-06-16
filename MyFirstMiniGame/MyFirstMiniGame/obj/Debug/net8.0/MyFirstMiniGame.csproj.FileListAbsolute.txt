@@ -1,0 +1,44 @@
+C:\Users\HP\OneDrive\Работен плот\MyFirstMiniGame\MyFirstMiniGame\bin\Debug\net8.0\MyFirstMiniGame.exe
+C:\Users\HP\OneDrive\Работен плот\MyFirstMiniGame\MyFirstMiniGame\bin\Debug\net8.0\MyFirstMiniGame.deps.json
+C:\Users\HP\OneDrive\Работен плот\MyFirstMiniGame\MyFirstMiniGame\bin\Debug\net8.0\MyFirstMiniGame.runtimeconfig.json
+C:\Users\HP\OneDrive\Работен плот\MyFirstMiniGame\MyFirstMiniGame\bin\Debug\net8.0\MyFirstMiniGame.dll
+C:\Users\HP\OneDrive\Работен плот\MyFirstMiniGame\MyFirstMiniGame\bin\Debug\net8.0\MyFirstMiniGame.pdb
+C:\Users\HP\OneDrive\Работен плот\MyFirstMiniGame\MyFirstMiniGame\obj\Debug\net8.0\MyFirstMiniGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Работен плот\MyFirstMiniGame\MyFirstMiniGame\obj\Debug\net8.0\MyFirstMiniGame.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Работен плот\MyFirstMiniGame\MyFirstMiniGame\obj\Debug\net8.0\MyFirstMiniGame.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Работен плот\MyFirstMiniGame\MyFirstMiniGame\obj\Debug\net8.0\MyFirstMiniGame.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Работен плот\MyFirstMiniGame\MyFirstMiniGame\obj\Debug\net8.0\MyFirstMiniGame.dll
+C:\Users\HP\OneDrive\Работен плот\MyFirstMiniGame\MyFirstMiniGame\obj\Debug\net8.0\refint\MyFirstMiniGame.dll
+C:\Users\HP\OneDrive\Работен плот\MyFirstMiniGame\MyFirstMiniGame\obj\Debug\net8.0\MyFirstMiniGame.pdb
+C:\Users\HP\OneDrive\Работен плот\MyFirstMiniGame\MyFirstMiniGame\obj\Debug\net8.0\MyFirstMiniGame.genruntimeconfig.cache
+C:\Users\HP\OneDrive\Работен плот\MyFirstMiniGame\MyFirstMiniGame\obj\Debug\net8.0\ref\MyFirstMiniGame.dll
+C:\Users\HP\OneDrive\Работен плот\Ivelin-s-repository repo\Ivelin-s-repository\MyFirstMiniGame\MyFirstMiniGame\obj\Debug\net8.0\MyFirstMiniGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Работен плот\Ivelin-s-repository repo\Ivelin-s-repository\MyFirstMiniGame\MyFirstMiniGame\obj\Debug\net8.0\MyFirstMiniGame.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Работен плот\Ivelin-s-repository repo\Ivelin-s-repository\MyFirstMiniGame\MyFirstMiniGame\obj\Debug\net8.0\MyFirstMiniGame.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Работен плот\Ivelin-s-repository repo\Ivelin-s-repository\MyFirstMiniGame\MyFirstMiniGame\obj\Debug\net8.0\MyFirstMiniGame.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Работен плот\Ivelin-s-repository repo\Ivelin-s-repository\MyFirstMiniGame\MyFirstMiniGame\obj\Debug\net8.0\MyFirstMiniGame.sourcelink.json
+C:\Users\HP\OneDrive\Работен плот\Ivelin-s-repository repo\Ivelin-s-repository\MyFirstMiniGame\MyFirstMiniGame\obj\Debug\net8.0\MyFirstMiniGame.dll
+C:\Users\HP\OneDrive\Работен плот\Ivelin-s-repository repo\Ivelin-s-repository\MyFirstMiniGame\MyFirstMiniGame\obj\Debug\net8.0\refint\MyFirstMiniGame.dll
+C:\Users\HP\OneDrive\Работен плот\Ivelin-s-repository repo\Ivelin-s-repository\MyFirstMiniGame\MyFirstMiniGame\obj\Debug\net8.0\MyFirstMiniGame.pdb
+C:\Users\HP\OneDrive\Работен плот\Ivelin-s-repository repo\Ivelin-s-repository\MyFirstMiniGame\MyFirstMiniGame\bin\Debug\net8.0\MyFirstMiniGame.exe
+C:\Users\HP\OneDrive\Работен плот\Ivelin-s-repository repo\Ivelin-s-repository\MyFirstMiniGame\MyFirstMiniGame\bin\Debug\net8.0\MyFirstMiniGame.deps.json
+C:\Users\HP\OneDrive\Работен плот\Ivelin-s-repository repo\Ivelin-s-repository\MyFirstMiniGame\MyFirstMiniGame\bin\Debug\net8.0\MyFirstMiniGame.runtimeconfig.json
+C:\Users\HP\OneDrive\Работен плот\Ivelin-s-repository repo\Ivelin-s-repository\MyFirstMiniGame\MyFirstMiniGame\bin\Debug\net8.0\MyFirstMiniGame.dll
+C:\Users\HP\OneDrive\Работен плот\Ivelin-s-repository repo\Ivelin-s-repository\MyFirstMiniGame\MyFirstMiniGame\bin\Debug\net8.0\MyFirstMiniGame.pdb
+C:\Users\HP\OneDrive\Работен плот\Ivelin-s-repository repo\Ivelin-s-repository\MyFirstMiniGame\MyFirstMiniGame\obj\Debug\net8.0\MyFirstMiniGame.genruntimeconfig.cache
+C:\Users\HP\OneDrive\Работен плот\Ivelin-s-repository repo\Ivelin-s-repository\MyFirstMiniGame\MyFirstMiniGame\obj\Debug\net8.0\ref\MyFirstMiniGame.dll
+C:\Users\iveli\OneDrive\Работен плот\Ivelin-s-repository repo\Ivelin-s-repository\MyFirstMiniGame\MyFirstMiniGame\obj\Debug\net8.0\MyFirstMiniGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iveli\OneDrive\Работен плот\Ivelin-s-repository repo\Ivelin-s-repository\MyFirstMiniGame\MyFirstMiniGame\obj\Debug\net8.0\MyFirstMiniGame.AssemblyInfoInputs.cache
+C:\Users\iveli\OneDrive\Работен плот\Ivelin-s-repository repo\Ivelin-s-repository\MyFirstMiniGame\MyFirstMiniGame\obj\Debug\net8.0\MyFirstMiniGame.AssemblyInfo.cs
+C:\Users\iveli\OneDrive\Работен плот\Ivelin-s-repository repo\Ivelin-s-repository\MyFirstMiniGame\MyFirstMiniGame\obj\Debug\net8.0\MyFirstMiniGame.csproj.CoreCompileInputs.cache
+C:\Users\iveli\OneDrive\Работен плот\Ivelin-s-repository repo\Ivelin-s-repository\MyFirstMiniGame\MyFirstMiniGame\obj\Debug\net8.0\MyFirstMiniGame.sourcelink.json
+C:\Users\iveli\OneDrive\Работен плот\Ivelin-s-repository repo\Ivelin-s-repository\MyFirstMiniGame\MyFirstMiniGame\obj\Debug\net8.0\MyFirstMiniGame.dll
+C:\Users\iveli\OneDrive\Работен плот\Ivelin-s-repository repo\Ivelin-s-repository\MyFirstMiniGame\MyFirstMiniGame\obj\Debug\net8.0\refint\MyFirstMiniGame.dll
+C:\Users\iveli\OneDrive\Работен плот\Ivelin-s-repository repo\Ivelin-s-repository\MyFirstMiniGame\MyFirstMiniGame\obj\Debug\net8.0\MyFirstMiniGame.pdb
+C:\Users\iveli\OneDrive\Работен плот\Ivelin-s-repository repo\Ivelin-s-repository\MyFirstMiniGame\MyFirstMiniGame\bin\Debug\net8.0\MyFirstMiniGame.exe
+C:\Users\iveli\OneDrive\Работен плот\Ivelin-s-repository repo\Ivelin-s-repository\MyFirstMiniGame\MyFirstMiniGame\bin\Debug\net8.0\MyFirstMiniGame.deps.json
+C:\Users\iveli\OneDrive\Работен плот\Ivelin-s-repository repo\Ivelin-s-repository\MyFirstMiniGame\MyFirstMiniGame\bin\Debug\net8.0\MyFirstMiniGame.runtimeconfig.json
+C:\Users\iveli\OneDrive\Работен плот\Ivelin-s-repository repo\Ivelin-s-repository\MyFirstMiniGame\MyFirstMiniGame\bin\Debug\net8.0\MyFirstMiniGame.dll
+C:\Users\iveli\OneDrive\Работен плот\Ivelin-s-repository repo\Ivelin-s-repository\MyFirstMiniGame\MyFirstMiniGame\bin\Debug\net8.0\MyFirstMiniGame.pdb
+C:\Users\iveli\OneDrive\Работен плот\Ivelin-s-repository repo\Ivelin-s-repository\MyFirstMiniGame\MyFirstMiniGame\obj\Debug\net8.0\MyFirstMiniGame.genruntimeconfig.cache
+C:\Users\iveli\OneDrive\Работен плот\Ivelin-s-repository repo\Ivelin-s-repository\MyFirstMiniGame\MyFirstMiniGame\obj\Debug\net8.0\ref\MyFirstMiniGame.dll

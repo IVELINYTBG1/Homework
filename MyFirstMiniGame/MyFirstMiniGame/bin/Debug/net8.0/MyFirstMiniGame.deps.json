@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "MyFirstMiniGame/1.0.0": {
+        "runtime": {
+          "MyFirstMiniGame.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MyFirstMiniGame/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
